@@ -1,8 +1,8 @@
 const accountId = 15154 //const means once the value is locked, it can't be changed
 let accountEmail = "chandandhiman06@google.com" 
 var accountPassword = "123456"
-accountCity = "Himachal"
-let accountState;
+var accountCity = "Shimla"
+let accountState = "Himachal Pradesh" //if we don't enter any value, then the output will be undefined
 
 accountEmail = "dhimanchandan00@google.in"
 accountCity = "Jaipur"
